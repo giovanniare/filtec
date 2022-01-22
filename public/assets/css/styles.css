@@ -1378,7 +1378,7 @@ progress {
     }
     .col-lg-10 {
         flex: 0 0 auto;
-        width: 83.33333333%;
+        width: 86.33333333%;
     }
     .col-lg-11 {
         flex: 0 0 auto;
@@ -11139,12 +11139,12 @@ html {
     right: 15px;
     bottom: 15px;
     /*display: none;*/
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     text-align: center;
     color: #fff;
-    background: rgba(52, 58, 64, 0.5);
-    line-height: 95px;
+    background: #3374B8;
+    line-height: 65px;
 }
 
 .scroll-to-top:focus,
